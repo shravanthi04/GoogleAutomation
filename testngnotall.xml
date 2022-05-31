@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.TestNG.All.FacebookLoginPageTest"/>
+      <class name="com.TestNG.All.HRMLoginPageTest"/>
+      <class name="com.TestNG.All.MediPlusLoginPageTest"/>
+      <class name="com.TestNG.All.IHGPageTest"/>
+      <class name="com.TestNG.All.JqueryPageTest"/>
+      <class name="com.TestNG.All.CharCharPageTest"/>
+      <class name="com.TestNG.All.NikePageTest"/>
+      <class name="com.TestNG.All.AmazonPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

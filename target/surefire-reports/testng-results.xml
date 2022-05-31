@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22486" started-at="2022-05-30T16:36:49Z" finished-at="2022-05-30T16:37:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22486" started-at="2022-05-30T16:36:49Z" finished-at="2022-05-30T16:37:11Z">
+      <class name="com.TestNG.All.JqueryPageTest">
+        <test-method status="PASS" signature="JQPT()[pri:0, instance:com.TestNG.All.JqueryPageTest@1810399e]" name="JQPT" duration-ms="2076" started-at="2022-05-30T16:37:02Z" finished-at="2022-05-30T16:37:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQPT -->
+      </class> <!-- com.TestNG.All.JqueryPageTest -->
+      <class name="com.TestNG.All.MediPlusLoginPageTest">
+        <test-method status="PASS" signature="MPLPT()[pri:0, instance:com.TestNG.All.MediPlusLoginPageTest@50c87b21]" name="MPLPT" duration-ms="3793" started-at="2022-05-30T16:36:51Z" finished-at="2022-05-30T16:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MPLPT -->
+      </class> <!-- com.TestNG.All.MediPlusLoginPageTest -->
+      <class name="com.TestNG.All.HRMLoginPageTest">
+        <test-method status="PASS" signature="HRMLogin()[pri:0, instance:com.TestNG.All.HRMLoginPageTest@6d78f375]" name="HRMLogin" duration-ms="2807" started-at="2022-05-30T16:36:49Z" finished-at="2022-05-30T16:36:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HRMLogin -->
+      </class> <!-- com.TestNG.All.HRMLoginPageTest -->
+      <class name="com.TestNG.All.IHGPageTest">
+        <test-method status="PASS" signature="IHGPT()[pri:0, instance:com.TestNG.All.IHGPageTest@5f375618]" name="IHGPT" duration-ms="6991" started-at="2022-05-30T16:36:55Z" finished-at="2022-05-30T16:37:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IHGPT -->
+      </class> <!-- com.TestNG.All.IHGPageTest -->
+      <class name="com.TestNG.All.NikePageTest">
+        <test-method status="PASS" signature="NPL()[pri:0, instance:com.TestNG.All.NikePageTest@32d992b2]" name="NPL" duration-ms="6796" started-at="2022-05-30T16:37:04Z" finished-at="2022-05-30T16:37:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NPL -->
+      </class> <!-- com.TestNG.All.NikePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
